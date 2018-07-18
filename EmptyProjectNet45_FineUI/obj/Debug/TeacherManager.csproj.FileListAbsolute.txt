@@ -1,0 +1,10 @@
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\bin\EmptyProjectNet45_FineUI.dll.config
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\bin\EmptyProjectNet45_FineUI.dll
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\bin\EmptyProjectNet45_FineUI.pdb
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\bin\FineUI.dll
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\bin\Newtonsoft.Json.dll
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\bin\FineUI.xml
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\bin\Newtonsoft.Json.xml
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\obj\Debug\TeacherManager.csprojResolveAssemblyReference.cache
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\obj\Debug\EmptyProjectNet45_FineUI.dll
+D:\Procedure\c#\kechensheji\EmptyProjectNet45_FineUI\obj\Debug\EmptyProjectNet45_FineUI.pdb
